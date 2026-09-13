@@ -18,9 +18,9 @@ A high-volume observed schedule from **March 30, 2024**, with **10 PACU arrivals
 
 | Metric                                  |         Result |
 | --------------------------------------- | -------------: |
-| Probability of exceeding 3 staffed bays |      **99.4%** |
-| Expected time above capacity            |   **79.6 min** |
-| Expected excess patient-minutes         |      **110.4** |
+| Probability of exceeding 3 staffed bays |      **99.3%** |
+| Expected time above capacity            |   **78.9 min** |
+| Expected excess patient-minutes         |  **109.2 min** |
 | Median simulated peak demand            | **5 patients** |
 | P90 simulated peak demand               | **6 patients** |
 
@@ -30,7 +30,7 @@ A high-volume observed schedule from **March 30, 2024**, with **10 PACU arrivals
 
 For the stress-test schedule:
 
-**99.4% simulated risk → Activate temporary staffing**
+**99.3% simulated risk → Activate temporary staffing**
 
 ---
 
